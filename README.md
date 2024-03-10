@@ -4,7 +4,7 @@ A basic implementation of routing in Next.Js
 
 ## Getting Started
 
-First, run the development server:
+Clone the repository & Run the development server:
 
 ```bash
 npm run dev
